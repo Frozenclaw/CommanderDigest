@@ -1,0 +1,5 @@
+ModLoader.SetupFileHook( "lua/Crag.lua", "lua/Digest/Crag.lua", "post" )
+ModLoader.SetupFileHook( "lua/TechTreeButtons.lua", "lua/Digest/TechTreeButtons.lua", "post" )
+ModLoader.SetupFileHook( "lua/TechData.lua", "lua/Digest/TechData.lua", "post" )
+ModLoader.SetupFileHook( "lua/TechTreeConstants.lua", "lua/Digest/TechTreeConstants.lua", "post" )
+ModLoader.SetupFileHook( "lua/AlienTeam.lua", "lua/Digest/AlienTeam.lua", "post" )
